@@ -1,0 +1,5 @@
+{
+  "main":"com.kaushik.chat.ServerVerticle",
+  "description":"Mobile Chat Server",
+  "author": "Kaushik Nandan"
+}
