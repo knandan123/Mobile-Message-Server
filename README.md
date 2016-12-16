@@ -1,4 +1,4 @@
-#CHATTER
+#MOBILE MESSAGE SERVER CHAT
 
 An event based, non blocking, asynchronous chat server and its corresponding minimal client.
 
